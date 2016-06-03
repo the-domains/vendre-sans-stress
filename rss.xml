@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[une autre façon de voir le marketing]]></title>
         <description><![CDATA[une autre façon de voir le marketing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vendre-sans-stress/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 15:49:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 15:50:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vendre-sans-stress/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7a89b4d-dfc6-4c79-8522-2cd545736ab7.jpg">]]></description>
+            <link>https://thegrid.ai/vendre-sans-stress/d99e7502-7af4-455a-a001-8f1c0ef7062d/index.html</link>
+            <guid isPermaLink="false">d99e7502-7af4-455a-a001-8f1c0ef7062d</guid>
+            <pubDate>Fri, 03 Jun 2016 15:50:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Remplir ton carnet de commande et vendre sans stress]]></title>
-            <description><![CDATA[<article><h1>Remplir ton carnet de commande et vendre sans stress</h1><p>Besoin de plus de clients? Remplis ton carnet de commande et apprend à vendre sans stress avec la méthode Book Yourself Solid de Michael Port.</p><img src="https://s3.amazonaws.com/kajabi-storefronts-production/sites/5070/images/28XAxYa3TKu3tcjqwm15_BYS_FR_cover.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Remplir ton carnet de commande et vendre sans stress</h1><p>Besoin de plus de clients? Remplis ton carnet de commande et apprend à vendre sans stress avec la méthode Book Yourself Solid de Michael Port.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0134f68fdaa632ddf643d1275d01ede82cf6ee63.jpg"></article>]]></description>
             <link>https://deeleeconsulting.mykajabi.com/</link>
             <guid isPermaLink="false">7e61f20d-54f4-4e38-b441-23c47283dcfd</guid>
             <pubDate>Fri, 03 Jun 2016 15:49:10 GMT</pubDate>
