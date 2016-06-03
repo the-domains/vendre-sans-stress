@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[une autre façon de voir le marketing]]></title>
+        <description><![CDATA[une autre façon de voir le marketing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 03 Jun 2016 15:49:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Remplir ton carnet de commande et vendre sans stress]]></title>
+            <description><![CDATA[<article><h1>Remplir ton carnet de commande et vendre sans stress</h1><p>Besoin de plus de clients? Remplis ton carnet de commande et apprend à vendre sans stress avec la méthode Book Yourself Solid de Michael Port.</p><img src="https://s3.amazonaws.com/kajabi-storefronts-production/sites/5070/images/28XAxYa3TKu3tcjqwm15_BYS_FR_cover.jpg"></article>]]></description>
+            <link>https://deeleeconsulting.mykajabi.com/</link>
+            <guid isPermaLink="false">7e61f20d-54f4-4e38-b441-23c47283dcfd</guid>
+            <pubDate>Fri, 03 Jun 2016 15:49:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
